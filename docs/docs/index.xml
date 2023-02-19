@@ -3,10 +3,10 @@
 &lt;h2 id="documentación">Documentación&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;a href="https://treamlit.io">https://treamlit.io&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://streamlit.io">https://streamlit.io&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="https://streamlitpython.com">https://streamlitpython.com&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://python-textbook.pythonhumanities.com/05_streamlit/05_01_01_intro.html">https://python-textbook.pythonhumanities.com/05_streamlit/05_01_01_intro.html&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;/div>
@@ -19,18 +19,25 @@
 &lt;ul>
 &lt;li>¿Podrías hacer algo similar con &lt;a href="https://www.zaragoza.es/sede/portal/datos-abiertos/servicio/catalogo/296">Datos de aparcabicis&lt;/a>&lt;/li>
 &lt;li>Otro recurso: &lt;a href="./centros.json">Centros Educativos de Aragón&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Docs: Pandas</title><link>https://lmorillas.github.io/intro-datos/docs/pandas/</link><pubDate>Thu, 21 Oct 2021 10:36:54 +0200</pubDate><guid>https://lmorillas.github.io/intro-datos/docs/pandas/</guid><description>
+&lt;/ul>
+&lt;h2 id="profundización">Profundización&lt;/h2>
+&lt;h3 id="mostrar-datos">Mostrar datos&lt;/h3>
+&lt;h3 id="widgets">Widgets&lt;/h3>
+&lt;h3 id="visualización">Visualización&lt;/h3>
+&lt;h3 id="diseño-de-pantalla">Diseño de pantalla&lt;/h3>
+&lt;h3 id="cache-de-datos">Cache de datos&lt;/h3>
+&lt;h3 id="custom-html">Custom HTML&lt;/h3>
+&lt;h3 id="aplicaciones-multi-página">Aplicaciones multi-página&lt;/h3>
+&lt;h3 id="búsquedas">Búsquedas&lt;/h3>
+&lt;h3 id="despliegue">Despliegue&lt;/h3></description></item><item><title>Docs: Pandas</title><link>https://lmorillas.github.io/intro-datos/docs/pandas/</link><pubDate>Thu, 21 Oct 2021 10:36:54 +0200</pubDate><guid>https://lmorillas.github.io/intro-datos/docs/pandas/</guid><description>
 &lt;div class="pageinfo pageinfo-primary">
-&lt;p>Tutorial&lt;/p>
+&lt;h2 id="tutorial">Tutorial&lt;/h2>
 &lt;ul>
 &lt;li>
+&lt;p>&lt;a href="https://python-textbook.pythonhumanities.com/02_pandas/02_01_01_intro.html">https://python-textbook.pythonhumanities.com/02_pandas/02_01_01_intro.html&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
 &lt;p>&lt;a href="https://datacarpentry.org/python-ecology-lesson-es/02-starting-with-data/index.html">https://datacarpentry.org/python-ecology-lesson-es/02-starting-with-data/index.html&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a href="https://github.com/pauladanielafarias/curso_IA/blob/master/4.%20Pandas%20y%20plot.ipynb">https://github.com/pauladanielafarias/curso_IA/blob/master/4.%20Pandas%20y%20plot.ipynb&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a href="https://colab.research.google.com/notebooks/mlcc/intro_to_pandas.ipynb?hl=es-mx">https://colab.research.google.com/notebooks/mlcc/intro_to_pandas.ipynb?hl=es-mx&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;a href="https://aprendeconalf.es/docencia/python/manual/pandas/">https://aprendeconalf.es/docencia/python/manual/pandas/&lt;/a>&lt;/p>
