@@ -16,7 +16,10 @@
 &lt;h2 id="primera-aplicación">Primera aplicación&lt;/h2>
 &lt;p>&lt;a href="https://docs.streamlit.io/library/get-started/create-an-app">https://docs.streamlit.io/library/get-started/create-an-app&lt;/a>&lt;/p>
 &lt;h2 id="reto">Reto&lt;/h2>
-&lt;p>¿Podrías hacer algo similar con &lt;a href="https://www.zaragoza.es/sede/portal/datos-abiertos/servicio/catalogo/296">Datos de aparcabicis&lt;/a>&lt;/p></description></item><item><title>Docs: Pandas</title><link>https://lmorillas.github.io/intro-datos/docs/pandas/</link><pubDate>Thu, 21 Oct 2021 10:36:54 +0200</pubDate><guid>https://lmorillas.github.io/intro-datos/docs/pandas/</guid><description>
+&lt;ul>
+&lt;li>¿Podrías hacer algo similar con &lt;a href="https://www.zaragoza.es/sede/portal/datos-abiertos/servicio/catalogo/296">Datos de aparcabicis&lt;/a>&lt;/li>
+&lt;li>Otro recurso: &lt;a href="./centros.json">Centros Educativos de Aragón&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Docs: Pandas</title><link>https://lmorillas.github.io/intro-datos/docs/pandas/</link><pubDate>Thu, 21 Oct 2021 10:36:54 +0200</pubDate><guid>https://lmorillas.github.io/intro-datos/docs/pandas/</guid><description>
 &lt;div class="pageinfo pageinfo-primary">
 &lt;p>Tutorial&lt;/p>
 &lt;ul>

@@ -25,4 +25,5 @@ https://docs.streamlit.io/library/get-started/installation
 https://docs.streamlit.io/library/get-started/create-an-app
 
 ## Reto
-¿Podrías hacer algo similar con [Datos de aparcabicis](https://www.zaragoza.es/sede/portal/datos-abiertos/servicio/catalogo/296)
+* ¿Podrías hacer algo similar con [Datos de aparcabicis](https://www.zaragoza.es/sede/portal/datos-abiertos/servicio/catalogo/296)
+* Otro recurso: [Centros Educativos de Aragón](./centros.json)
