@@ -3,9 +3,7 @@ title: "Streamlit"
 date: 2021-10-21T10:36:54+02:00
 weight: 5
 docs: >
-* https://streamlitpython.com
-
-
+   * https://streamlitpython.com
 ---
 
 {{% pageinfo %}}
@@ -28,6 +26,7 @@ https://docs.streamlit.io/library/get-started/create-an-app
 ## Reto
 * ¿Podrías hacer algo similar con [Datos de aparcabicis](https://www.zaragoza.es/sede/portal/datos-abiertos/servicio/catalogo/296)
 * Otro recurso: [Centros Educativos de Aragón](./centros.json)
+* Algo diferente: [Interfaz para ChatGPT](https://levelup.gitconnected.com/create-your-chat-gpt-3-web-app-with-streamlit-in-python-f0c6e6aede0a)
 
 ## Profundización
 ### Mostrar datos
